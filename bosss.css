@@ -5,3 +5,28 @@ background-color:   #b5d2e3;
 
 
 }
+
+article img{
+
+display: flex ;
+align-items: flex-end;
+width: 100px;
+height: 100px;
+
+}
+
+.ford {
+
+    background-color: #4F759B;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
+article{
+    
+background-color: #C3DBC5
+
+}
